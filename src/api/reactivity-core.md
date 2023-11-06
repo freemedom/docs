@@ -372,7 +372,7 @@ Watches one or more reactive data sources and invokes a callback function when t
   The first argument is the watcher's **source**. The source can be one of the following:
 
   - A getter function that returns a value
-  - A ref
+  - A ref object
   - A reactive object
   - ...or an array of the above.
 
